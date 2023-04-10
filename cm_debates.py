@@ -7,16 +7,16 @@ from bs4 import BeautifulSoup
 import os
 from lexical_diversity import lex_div as ld
 import numpy as np
-
-os.environ['STANFORD_PARSER'] = 'C:\\Users\\david\\Downloads\\stanford-parser-full-2020-11-17'
-os.environ['STANFORD_MODELS'] = 'C:\\Users\\david\\Downloads\\stanford-parser-full-2020-11-17'
+from downloads_folder import downloads_folder
+os.environ['STANFORD_PARSER'] = f'{downloads_folder}\\stanford-parser-full-2020-11-17'
+os.environ['STANFORD_MODELS'] = f'{downloads_folder}\\stanford-parser-full-2020-11-17'
 
 debates_file_path = "debates_Catherine-Martin.D.2016-10-03.list.txt"
 
 with open(debates_file_path) as file:
     debate_urls = file.read().split("\n")
 
-url_info_file = open("url_info.txt", "a+")
+url_info_file = open("debates_info.txt", "a+")
 
 # print(nltk.pos_tag(word_tokenize(\
 #     "In the present study"," we examine the outcomes of such a period of no \ exposure on the neurocognition of L2 grammar:")"," tagset='universal'))
