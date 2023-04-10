@@ -1,0 +1,2015 @@
+{
+  "head": {
+    "counts": {
+      "questionCount": 1375,
+      "resultCount": 1375
+    },
+    "dateRange": {
+      "start": "1900-01-01T00:00:00.000Z",
+      "end": "2099-01-01T00:00:00.000Z"
+    },
+    "lang": "mul"
+  },
+  "results": [
+    {
+      "question": {
+        "date": "2020-06-16",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-16/writtens/mul@/dbsect_148.xml"
+            }
+          },
+          "showAs": "Home School Community Liaison Scheme",
+          "debateSectionId": "dbsect_148",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-16/writtens/dbsect_148"
+        },
+        "showAs": " 170. Deputy Catherine Martin asked the Minister for Education and Skills the consideration that has been given to expanding the entitlement of a home school liaison officer to schools which are disadvantaged but have not yet been designated DEIS; and if he will make a statement on the matter. [10535/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-16/pq_170",
+        "house": {
+          "showAs": "33rd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 170
+      },
+      "contextDate": "2020-06-16"
+    },
+    {
+      "question": {
+        "date": "2020-06-16",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-16/writtens/mul@/dbsect_201.xml"
+            }
+          },
+          "showAs": "Covid-19 Pandemic",
+          "debateSectionId": "dbsect_201",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-16/writtens/dbsect_201"
+        },
+        "showAs": " 222. Deputy Catherine Martin asked the Minister for Education and Skills his plans to introduce a standardised online learning platform and supports for families that are home schooling their children in the event that primary schools do not fully open in September 2020 or are forced to close again if a second wave of Covid-19 occurs; and if he will make a statement on the matter. [10819/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-16/pq_222",
+        "house": {
+          "showAs": "33rd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 222
+      },
+      "contextDate": "2020-06-16"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_150.xml"
+            }
+          },
+          "showAs": "State Examinations",
+          "debateSectionId": "dbsect_150",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_150"
+        },
+        "showAs": " 232. Deputy Catherine Martin asked the Minister for Education and Skills the consideration given to students who have studied a subject outside of school and who, therefore, do not have a teacher to give them a calculated grade; and if he will make a statement on the matter. [8933/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_232",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 232
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_193.xml"
+            }
+          },
+          "showAs": "English Language Training Organisations",
+          "debateSectionId": "dbsect_193",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_193"
+        },
+        "showAs": " 233. Deputy Catherine Martin asked the Minister for Education and Skills if English language teachers have been included in the Covid-19 working group for the English language education sector; the consideration given as to the way in which the English language schools will reopen; and if he will make a statement on the matter. [8934/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_233",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 233
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_194.xml"
+            }
+          },
+          "showAs": "Special Educational Needs",
+          "debateSectionId": "dbsect_194",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_194"
+        },
+        "showAs": " 234. Deputy Catherine Martin asked the Minister for Education and Skills if a roadmap to get children with special needs to return to school exists; his plans for the July provision to continue in summer 2020; and if he will make a statement on the matter. [8935/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_234",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 234
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_195.xml"
+            }
+          },
+          "showAs": "Education and Training Boards",
+          "debateSectionId": "dbsect_195",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_195"
+        },
+        "showAs": " 235. Deputy Catherine Martin asked the Minister for Education and Skills if his attention has been drawn to the issue of some educational training boards seeking recoupment of overpaid food and travel allowances during the lockdown period from their students; the reason ETBs are requesting this refund in view of the precedent that exists for food and travel allowances to be paid to students whether they are on or off campus and the difficulties faced by many students during the ongoing crisis; the measures he is taking to address this issue; and if he will make a statement on the matter. [8936/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_235",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 235
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_196.xml"
+            }
+          },
+          "showAs": "Covid-19 Pandemic",
+          "debateSectionId": "dbsect_196",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_196"
+        },
+        "showAs": " 236. Deputy Catherine Martin asked the Minister for Education and Skills the provisions he has put in place for primary and post-primary students to return to school; if he has considered reducing the number of children in classrooms; his plans to issue guidelines to parents and schools on the way to continue social distancing during school; and if he will make a statement on the matter. [8937/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_236",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 236
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-06-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/mul@/dbsect_197.xml"
+            }
+          },
+          "showAs": "Site Acquisitions",
+          "debateSectionId": "dbsect_197",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-06-03/writtens/dbsect_197"
+        },
+        "showAs": " 237. Deputy Catherine Martin asked the Minister for Education and Skills if a permanent site has been identified for the new secondary school for the Greystones and Kilcoole planning area, County Wicklow, (details supplied); if the permanent site is in the ownership of his Department; if not, when the school will open on its permanent site; and if he will make a statement on the matter. [8938/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-06-03/pq_237",
+        "house": {
+          "showAs": "33rd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 237
+      },
+      "contextDate": "2020-06-03"
+    },
+    {
+      "question": {
+        "date": "2020-05-13",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-05-13/writtens/mul@/dbsect_913.xml"
+            }
+          },
+          "showAs": "Climate Action Plan",
+          "debateSectionId": "dbsect_913",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2020-05-13/writtens/dbsect_913"
+        },
+        "showAs": " 973. Deputy Catherine Martin asked the Minister for Communications, Climate Action and Environment the status of progress and a projected timeline for implementation of action No. 31 of the Climate Action Plan in relation to the need for a support scheme for the solar PV microgeneration scheme to ensure that persons can sell excess electricity they produce back to the grid; and if he will make a statement on the matter.  [4203/20] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Communications",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2020-05-13/pq_973",
+        "house": {
+          "showAs": "33rd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "33",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/33"
+        },
+        "questionNumber": 973
+      },
+      "contextDate": "2020-05-13"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_146.xml"
+            }
+          },
+          "showAs": "Cycle to Work Scheme",
+          "debateSectionId": "dbsect_146",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_146"
+        },
+        "showAs": " 132. Deputy Catherine Martin asked the Minister for Finance his plans to extend the terms of the cycle to work scheme to cover pedal-assisted e-bikes and increase the eligibility financial limits; and if he will make a statement on the matter. [53710/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Finance",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_132",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 132
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_161.xml"
+            }
+          },
+          "showAs": "Office of Public Works Data",
+          "debateSectionId": "dbsect_161",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_161"
+        },
+        "showAs": " 146. Deputy Catherine Martin asked the Minister for Public Expenditure and Reform the number of car parking spaces controlled by the Office of Public Works in Dublin 1, 2, 7 and 8; the number commercially leased; and the annual income from same. [53708/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Public",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_146",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 146
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_162.xml"
+            }
+          },
+          "showAs": "National Parks",
+          "debateSectionId": "dbsect_162",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_162"
+        },
+        "showAs": " 147. Deputy Catherine Martin asked the Minister for Public Expenditure and Reform the status of the draft Phoenix Park visitor experience strategic review; if his attention has been drawn to the degree of public opposition to some of the changes proposed in the document; and if he will make a statement on the matter. [53718/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Public",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_147",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 147
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_182.xml"
+            }
+          },
+          "showAs": "School Patronage",
+          "debateSectionId": "dbsect_182",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_182"
+        },
+        "showAs": " 168. Deputy Catherine Martin asked the Minister for Education and Skills when the outcome of the patronage process for the new secondary school in Goatstown, Dublin 14 due to open in 2020 will be announced; and if he will make a statement on the matter. [53606/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_168",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 168
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_183.xml"
+            }
+          },
+          "showAs": "Schools Building Projects Status",
+          "debateSectionId": "dbsect_183",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_183"
+        },
+        "showAs": " 169. Deputy Catherine Martin asked the Minister for Education and Skills if the permanent school buildings for the recently opened primary and the post-primary school (details supplied) to be opened in September 2019 in an area will be included in the recently announced contract tenders for new school buildings; if not, when the contract tender for the permanent buildings for these schools is likely to be announced; and if he will make a statement on the matter. [53607/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_169",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 169
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_188.xml"
+            }
+          },
+          "showAs": "Schools Building Projects Status",
+          "debateSectionId": "dbsect_188",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_188"
+        },
+        "showAs": " 174. Deputy Catherine Martin asked the Minister for Education and Skills the status of and the timeline for the commencement of the building of a new school (details supplied); and if he will make a statement on the matter. [53707/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_174",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 174
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_189.xml"
+            }
+          },
+          "showAs": "Migrant Integration",
+          "debateSectionId": "dbsect_189",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_189"
+        },
+        "showAs": " 175. Deputy Catherine Martin asked the Minister for Education and Skills if  funding is provided for integration projects undertaken with primary or secondary schools; and if he will make a statement on the matter. [53715/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_175",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 175
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_190.xml"
+            }
+          },
+          "showAs": "Schools Building Projects Status",
+          "debateSectionId": "dbsect_190",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_190"
+        },
+        "showAs": " 176. Deputy Catherine Martin asked the Minister for Education and Skills the person or body that will own the school building and the school site for a school (details supplied) on the Phoenix Park site; and if he will make a statement on the matter. [53719/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_176",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 176
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_229.xml"
+            }
+          },
+          "showAs": "Road Traffic Offences Data",
+          "debateSectionId": "dbsect_229",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_229"
+        },
+        "showAs": " 213. Deputy Catherine Martin asked the Minister for Justice and Equality his plans to ensure the Courts Service provides a detailed breakdown of road traffic offences in an open format that would allow for the analysis of trends over date and by region in view of the fact that the absence of such data may be inhibiting evidence-based policy formation in achieving road safety goals; and if he will make a statement on the matter. [53712/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_213",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 213
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_230.xml"
+            }
+          },
+          "showAs": "Prison Service Data",
+          "debateSectionId": "dbsect_230",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_230"
+        },
+        "showAs": " 214. Deputy Catherine Martin asked the Minister for Justice and Equality his plans for the future of Arbour Hill Prison, Dublin 7 and the possible rehousing of long-stay prisoners; and the details of the prison population by years served in Arbour Hill. [53713/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_214",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 214
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_231.xml"
+            }
+          },
+          "showAs": "Migrant Integration",
+          "debateSectionId": "dbsect_231",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_231"
+        },
+        "showAs": " 215. Deputy Catherine Martin asked the Minister for Justice and Equality if funding is provided for integration projects undertaken with primary or secondary schools; and if he will make a statement on the matter. [53716/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_215",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 215
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_317.xml"
+            }
+          },
+          "showAs": "Home Help Service Provision",
+          "debateSectionId": "dbsect_317",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_317"
+        },
+        "showAs": " 309. Deputy Catherine Martin asked the Minister for Health if his attention has been drawn to the fact that a person (details supplied) has been allocated the necessary home help hours in order to return home but has been informed that the funding is not available for the hours; his plans to tackle the issue; and if he will make a statement on the matter. [53625/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Health",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_309",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 309
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_318.xml"
+            }
+          },
+          "showAs": "Home Help Service",
+          "debateSectionId": "dbsect_318",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_318"
+        },
+        "showAs": " 310. Deputy Catherine Martin asked the Minister for Health the number of occurrences of home help hours being awarded without the funding in place to deliver the hours in each of the past three years in tabular form; and if he will make a statement on the matter. [53626/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Health",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_310",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 310
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_319.xml"
+            }
+          },
+          "showAs": "Hospital Services",
+          "debateSectionId": "dbsect_319",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_319"
+        },
+        "showAs": " 311. Deputy Catherine Martin asked the Minister for Health the previous time resources were increased to the stoma colorectal clinical nurse specialists service in Crumlin Children’s Hospital; the resourcing for the service in the past five years in tabular form; his plans to adequately fund the service in view of the ongoing demands on the service which have resulted in children and their parents experiencing long delays; and if he will make a statement on the matter. [53627/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Health",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_311",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 311
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_320.xml"
+            }
+          },
+          "showAs": "Childcare Services Provision",
+          "debateSectionId": "dbsect_320",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_320"
+        },
+        "showAs": " 312. Deputy Catherine Martin asked the Minister for Health further to Parliamentary Question No. 110 of 13 November 2019, if he has engaged with the Department of Education and Skills to explore the provision of crèche facilities in the development of a permanent school building for two schools (details supplied) in view of the need for childcare places in Goatstown, Dublin 14; and if he will make a statement on the matter. [53628/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Health",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_312",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 312
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_376.xml"
+            }
+          },
+          "showAs": "Departmental Strategies",
+          "debateSectionId": "dbsect_376",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_376"
+        },
+        "showAs": " 373. Deputy Catherine Martin asked the Minister for Communications, Climate Action and Environment the steps taken to implement the National Positive Ageing Strategy in his Department; and if he will make a statement on the matter. [53598/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Communications",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_373",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 373
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_390.xml"
+            }
+          },
+          "showAs": "Departmental Expenditure",
+          "debateSectionId": "dbsect_390",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_390"
+        },
+        "showAs": " 387. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the capital expenditure by his Department from 1 January to 31 August 2019 under headings (details supplied); and the projects funded under B8.1 Smarter Travel and Sustainable Urban Transport, in tabular form. [53599/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_387",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 387
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_399.xml"
+            }
+          },
+          "showAs": "Traffic Management",
+          "debateSectionId": "dbsect_399",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_399"
+        },
+        "showAs": " 397. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the status of his plans for the installation of further red light running cameras in Dublin city at Blackhall Place, Con Colbert Road and Queen Street; and when the enabling legislation will be updated. [53709/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_397",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 397
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-18",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/mul@/dbsect_400.xml"
+            }
+          },
+          "showAs": "Light Rail Projects Status",
+          "debateSectionId": "dbsect_400",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-18/writtens/dbsect_400"
+        },
+        "showAs": " 398. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the status of the proposed extension of the Luas green line from Broombridge to Finglas; if a station will be provided at Royal Canal Park and Pelletstown; and if he will make a statement on the matter. [53717/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-18/pq_398",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 398
+      },
+      "contextDate": "2019-12-18"
+    },
+    {
+      "question": {
+        "date": "2019-12-12",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-12/writtens/mul@/dbsect_131.xml"
+            }
+          },
+          "showAs": "Road Traffic Offences Data",
+          "debateSectionId": "dbsect_131",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-12/writtens/dbsect_131"
+        },
+        "showAs": " 112. Deputy Catherine Martin asked the Minister for Justice and Equality the number of e-scooters that have been confiscated by gardaí in the past 18 months in tabular form, by month and by Garda division. [52308/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-12/pq_112",
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "questionNumber": 112
+      },
+      "contextDate": "2019-12-12"
+    },
+    {
+      "question": {
+        "date": "2019-12-12",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-12/writtens/mul@/dbsect_132.xml"
+            }
+          },
+          "showAs": "Freedom of Information Data",
+          "debateSectionId": "dbsect_132",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-12/writtens/dbsect_132"
+        },
+        "showAs": " 113. Deputy Catherine Martin asked the Minister for Justice and Equality the number of freedom of information requests received in each of the years 2017, 2018 and to date 2019; the number in each year that were delivered on time, the number in each year that were delivered with an extended deadline; and the number in each year that were not delivered within deadline. [52309/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-12/pq_113",
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "questionNumber": 113
+      },
+      "contextDate": "2019-12-12"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_253.xml"
+            }
+          },
+          "showAs": "Proposed Legislation",
+          "debateSectionId": "dbsect_253",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_253"
+        },
+        "showAs": " 277. Deputy Catherine Martin asked the Minister for Justice and Equality when his Department will table the required amendments to the Assisted Decision-Making (Capacity) Act 2015; when the amendments will be enacted; when the Act will be commenced in full; and if he will make a statement on the matter. [51666/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_277",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 277
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_217.xml"
+            }
+          },
+          "showAs": "Irish Naturalisation and Immigration Service Administration",
+          "debateSectionId": "dbsect_217",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_217"
+        },
+        "showAs": " 278. Deputy Catherine Martin asked the Minister for Justice and Equality the steps he is taking to address the severe and ongoing shortage of available appointments for persons seeking to renew their visas with the INIS. [51667/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_278",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 278
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_217.xml"
+            }
+          },
+          "showAs": "Irish Naturalisation and Immigration Service Administration",
+          "debateSectionId": "dbsect_217",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_217"
+        },
+        "showAs": " 279. Deputy Catherine Martin asked the Minister for Justice and Equality if his attention has been drawn to the ongoing issue of INIS appointments being sold by third parties online to visa applicants; the measures being taken to prevent the activity; and if he will make a statement on the matter. [51668/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_279",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 279
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_446.xml"
+            }
+          },
+          "showAs": "Live Exports",
+          "debateSectionId": "dbsect_446",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_446"
+        },
+        "showAs": " 489. Deputy Catherine Martin asked the Minister for Agriculture, Food and the Marine his plans to review live exports of cattle to third countries by ship; and his further plans to introduce a moratorium on same in view of a recent disaster (details supplied). [51669/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Agriculture",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_489",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 489
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_446.xml"
+            }
+          },
+          "showAs": "Live Exports",
+          "debateSectionId": "dbsect_446",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_446"
+        },
+        "showAs": " 490. Deputy Catherine Martin asked the Minister for Agriculture, Food and the Marine the contingency plans in place in cases in which a live transport disaster such as recently occurred in Romania befalls a ship carrying live Irish cattle in view of the fact that the use of ships to transport live cattle is covered by Council Regulation (EC) No. 1/2005 within and outside the EU for the full extent of the journey. [51670/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Agriculture",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_490",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 490
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_450.xml"
+            }
+          },
+          "showAs": "Animal Welfare",
+          "debateSectionId": "dbsect_450",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_450"
+        },
+        "showAs": " 494. Deputy Catherine Martin asked the Minister for Agriculture, Food and the Marine his views on reports that officials from his Department have recently removed approximately 25 feral goats from the herd in the Scalp area of Kiltiernan, County Dublin; his plans to manage the population of the herd; and if he will make a statement on the matter. [51771/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Agriculture",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_494",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 494
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_503.xml"
+            }
+          },
+          "showAs": "Climate Change Policy",
+          "debateSectionId": "dbsect_503",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_503"
+        },
+        "showAs": " 553. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the analysis he or bodies under his aegis  with responsibility for transport such as the National Transport Authority have carried out of the potential contribution to decarbonisation of transport which could be made by small and lightweight electric vehicles including electric bicycles, tricycles, cargo bikes and small cars; and the consideration he has given to encouraging such small and light electric vehicles which appear to be excluded from his policies to electrify transport systems. [51770/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_553",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 553
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-10",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/mul@/dbsect_504.xml"
+            }
+          },
+          "showAs": "Park and Ride Facilities",
+          "debateSectionId": "dbsect_504",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-10/writtens/dbsect_504"
+        },
+        "showAs": " 554. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the number of car parking spaces at the Luas park and ride facility in Carrickmines, Dublin 18; the equivalent number of spaces at the Red Cow; the number of parking fines levied by or on behalf of Luas at each car park during 2018; the number of parking fine refunds granted at each in 2018; and if he will make a statement on the matter. [51772/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-10/pq_554",
+        "questionType": "written",
+        "house": {
+          "showAs": "32nd Dáil",
+          "committeeCode": "",
+          "chamberType": "house",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionNumber": 554
+      },
+      "contextDate": "2019-12-10"
+    },
+    {
+      "question": {
+        "date": "2019-12-04",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/mul@/dbsect_202.xml"
+            }
+          },
+          "showAs": "Public Transport Expenditure",
+          "debateSectionId": "dbsect_202",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/dbsect_202"
+        },
+        "showAs": " 207. Deputy Catherine Martin asked the Minister for Transport, Tourism and Sport the planned expenditure in each of the next five years for new projects in public transport (details supplied); and the definition of new roads used in the statement, for example, if it includes the widening of existing roads. [50525/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Transport",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-04/pq_207",
+        "questionNumber": 207
+      },
+      "contextDate": "2019-12-04"
+    },
+    {
+      "question": {
+        "date": "2019-12-04",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/mul@/dbsect_228.xml"
+            }
+          },
+          "showAs": "Employment Rights",
+          "debateSectionId": "dbsect_228",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/dbsect_228"
+        },
+        "showAs": " 234. Deputy Catherine Martin asked the Minister for Employment Affairs and Social Protection if her attention has been drawn to the practice of certain retailers conducting searches of employees when they are leaving their workplace at the end of their shifts; her plans to address the issue; and if she will make a statement on the matter. [50523/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Employment",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-04/pq_234",
+        "questionNumber": 234
+      },
+      "contextDate": "2019-12-04"
+    },
+    {
+      "question": {
+        "date": "2019-12-04",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/mul@/dbsect_228.xml"
+            }
+          },
+          "showAs": "Employment Rights",
+          "debateSectionId": "dbsect_228",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-04/writtens/dbsect_228"
+        },
+        "showAs": " 235. Deputy Catherine Martin asked the Minister for Employment Affairs and Social Protection if employers are obliged to inform staff members in writing if there is to be a change of security procedures in their workplace from randomised to mandatory searches in cases in which they are leaving their workplace; and if she will make a statement on the matter. [50524/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Employment",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-04/pq_235",
+        "questionNumber": 235
+      },
+      "contextDate": "2019-12-04"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_114.xml"
+            }
+          },
+          "showAs": "Passport Data",
+          "debateSectionId": "dbsect_114",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_114"
+        },
+        "showAs": " 114. Deputy Catherine Martin asked the Tánaiste and Minister for Foreign Affairs and Trade the number of passports issued in each of the past five years to high net worth individuals that planned to invest here; the details of such persons; the investments of each; and his plans to review the enabling legislation. [50073/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Foreign",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_114",
+        "questionNumber": 114
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_137.xml"
+            }
+          },
+          "showAs": "Corporation Tax",
+          "debateSectionId": "dbsect_137",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_137"
+        },
+        "showAs": " 143. Deputy Catherine Martin asked the Minister for Finance his views on a minimum effective corporate tax rate within the European Union; and if he will make a statement on the matter. [50301/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Finance",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_143",
+        "questionNumber": 143
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_207.xml"
+            }
+          },
+          "showAs": "School Accommodation Provision",
+          "debateSectionId": "dbsect_207",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_207"
+        },
+        "showAs": " 222. Deputy Catherine Martin asked the Minister for Education and Skills his plans to purchase outright or seek a licence for a vacant site near a school (details supplied) to enable the school to provide for a fourth stream of junior infants to be taken in September 2020; his further plans to allow for the construction of ASD units or to provide for a temporary site for the school while the major works necessary for the removal of pyrite from the foundations are carried out; and if he will make a statement on the matter. [50064/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_222",
+        "questionNumber": 222
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_208.xml"
+            }
+          },
+          "showAs": "National Educational Psychological Service Data",
+          "debateSectionId": "dbsect_208",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_208"
+        },
+        "showAs": " 223. Deputy Catherine Martin asked the Minister for Education and Skills the number of pupils with regard to the 8,309 referrals for individual casework undertaken by National Educational Psychological Service Data, NEPS, psychologists during the 2016/2017 academic year that underwent direct assessment as part of the involvement of the psychologist. [50066/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_223",
+        "questionNumber": 223
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_209.xml"
+            }
+          },
+          "showAs": "Schools Site Acquisitions",
+          "debateSectionId": "dbsect_209",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_209"
+        },
+        "showAs": " 224. Deputy Catherine Martin asked the Minister for Education and Skills the status of plans for a permanent home for a school (details supplied); if a site for the school has been identified; and if so, the location of same. [50067/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_224",
+        "questionNumber": 224
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_210.xml"
+            }
+          },
+          "showAs": "Special Educational Needs Data",
+          "debateSectionId": "dbsect_210",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_210"
+        },
+        "showAs": " 225. Deputy Catherine Martin asked the Minister for Education and Skills the number of applications for SNA access made nationwide to the NCSE during the 2018/2019 and 2019/2020 school years, respectively by county in tabular form. [50076/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_225",
+        "questionNumber": 225
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_211.xml"
+            }
+          },
+          "showAs": "Special Educational Needs Data",
+          "debateSectionId": "dbsect_211",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_211"
+        },
+        "showAs": " 226. Deputy Catherine Martin asked the Minister for Education and Skills the number of applications for SNA access made since the May 2019 allocation of SNA posts by county in a tabular form. [50077/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_226",
+        "questionNumber": 226
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_212.xml"
+            }
+          },
+          "showAs": "Special Educational Needs Staff Data",
+          "debateSectionId": "dbsect_212",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_212"
+        },
+        "showAs": " 227. Deputy Catherine Martin asked the Minister for Education and Skills the estimated number of extra special needs assistants that would be needed in order to ensure there is a SNA for each class at primary and post-primary level; the estimated cost of such an increase in provision for primary and post-primary level; and if he will make a statement on the matter. [50081/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Education",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_227",
+        "questionNumber": 227
+      },
+      "contextDate": "2019-12-03"
+    },
+    {
+      "question": {
+        "date": "2019-12-03",
+        "debateSection": {
+          "formats": {
+            "pdf": null,
+            "xml": {
+              "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/mul@/dbsect_259.xml"
+            }
+          },
+          "showAs": "Road Traffic Legislation",
+          "debateSectionId": "dbsect_259",
+          "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2019-12-03/writtens/dbsect_259"
+        },
+        "showAs": " 277. Deputy Catherine Martin asked the Minister for Justice and Equality his plans to update the enabling legislation on red light running cameras. [50068/19] ",
+        "by": {
+          "memberCode": "Catherine-Martin.D.2016-10-03",
+          "showAs": "Catherine Martin",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/member/id/Catherine-Martin.D.2016-10-03"
+        },
+        "to": {
+          "showAs": "Justice",
+          "roleCode": null,
+          "roleType": null,
+          "uri": null
+        },
+        "house": {
+          "showAs": "32nd Dáil",
+          "chamberType": "house",
+          "committeeCode": "",
+          "houseCode": "dail",
+          "houseNo": "32",
+          "uri": "https://data.oireachtas.ie/ie/oireachtas/house/dail/32"
+        },
+        "questionType": "written",
+        "uri": "https://data.oireachtas.ie/ie/oireachtas/question/2019-12-03/pq_277",
+        "questionNumber": 277
+      },
+      "contextDate": "2019-12-03"
+    }
+  ]
+}
